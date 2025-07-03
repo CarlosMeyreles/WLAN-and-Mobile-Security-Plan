@@ -11,7 +11,6 @@ Developed a comprehensive WLAN and Mobile Security Plan as part of a college cou
 - Preventative Measures Implementation: Recommended preventative measures to improve overall security..
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
 - Security Information and Event Management (SIEM) system for log ingestion and analysis.
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
